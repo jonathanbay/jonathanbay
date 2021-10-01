@@ -1,16 +1,32 @@
-### Hi there 👋
+### Bienvenue, je suis Bayart jonathan
 
-<!--
-**jonathanbay/jonathanbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### J'habite Racquinghem dans le pas de calais et je suis étudiant developpeur web.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/WvSjK3P8hqGA9AaUgt/giphy.gif"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Pourquoi developpeur web?
+J'ai toujours etait attiré par le monde de l'informatique, c'est un univers dans lequel j'ai grandi. L'aspect conception, le côté créatif et la programmation sont des élèments qui m'interesse **grandement**.
+
+### Etude: MIT, Harvard, Stanford?
+
+<p align="center">
+  <img align="left" width="30%" alt="GIF" src="https://media.giphy.com/media/mMT7dTihUIewVhpiUC/giphy.gif"/><br><br><br>
+  
+  Apres avoir obtenu mon Baccalaureat, je suis rapidement entré dans le monde du travail en intérim ou j'ai pu apprendre de nombreux métiers et échanger avec diverses personnes.:+1:
+</p>
+<br><br><br><br><br><br><br><br>
+
+
+### Soft skills 😃:
+- [x] Autonomie
+- [x] Capacité d'adaptation
+- [x] Esprit d'equipe
+- [x] Créativité
+- [x] Volonté d'apprendre
+
+
+
+
+
