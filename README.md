@@ -2,10 +2,6 @@
 
 ### J'habite Racquinghem dans le pas de calais et je suis étudiant developpeur web.
 
-<p align="center">
-  <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/WvSjK3P8hqGA9AaUgt/giphy.gif"/>
-</p>
-
 ### Pourquoi developpeur web?
 J'ai toujours etait attiré par le monde de l'informatique, c'est un univers dans lequel j'ai grandi. L'aspect conception, le côté créatif et la programmation sont des élèments qui m'interesse **grandement**.
 
