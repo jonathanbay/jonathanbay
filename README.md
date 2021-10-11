@@ -3,7 +3,7 @@
 ### J'habite Racquinghem dans le pas de calais et je suis étudiant developpeur web.
 
 ### Pourquoi developpeur web?
-J'ai toujours etait attiré par le monde de l'informatique, c'est un univers dans lequel j'ai grandi. L'aspect conception, le côté créatif et la programmation sont des élèments qui m'interesse **grandement**.
+J'ai toujours etait attiré par le monde de l'informatique, c'est un univers dans lequel j'ai grandi. L'aspect conception, le côté créatif et la programmation sont des élèments qui m'interessent **grandement**.
 
 ### Etude: MIT, Harvard, Stanford?
 
