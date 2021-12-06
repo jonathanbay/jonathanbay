@@ -9,8 +9,7 @@ J'ai toujours etait attiré par le monde de l'informatique, c'est un univers dan
 
 <p align="center">
   <img align="left" width="30%" alt="GIF" src="https://media.giphy.com/media/mMT7dTihUIewVhpiUC/giphy.gif"/><br><br><br>
-  <img align="left" width="30%" alt="GIF" src="https://media.giphy.com/media/gNke2UrUTopOg/giphy.gif"/><br><br><br>
-  ![ok](https://media.giphy.com/media/gNke2UrUTopOg/giphy.gif)
+  
   
   Apres avoir obtenu mon Baccalaureat, je suis rapidement entré dans le monde du travail en intérim ou j'ai pu apprendre de nombreux métiers et échanger avec diverses personnes.:+1:
 </p>
